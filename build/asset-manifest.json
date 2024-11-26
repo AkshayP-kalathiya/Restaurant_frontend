@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcd36ae3.css",
+    "main.js": "/static/js/main.d53c2efa.js",
+    "static/js/453.584e3e5b.chunk.js": "/static/js/453.584e3e5b.chunk.js",
+    "static/media/crispy-fry-chicken.png": "/static/media/crispy-fry-chicken.58758e80bb6bc2a0f440.png",
+    "static/media/login_n1.png": "/static/media/login_n1.0a4b3fe8483ea667190a.png",
+    "static/media/cheese-soup.png": "/static/media/cheese-soup.01c0239fdcda993e80a9.png",
+    "static/media/Strawberry-gelatin.png": "/static/media/Strawberry-gelatin.f7f90644e94494d3595e.png",
+    "static/media/order1.png": "/static/media/order1.5dd91c4450bdec4de692.png",
+    "static/media/order3.png": "/static/media/order3.a302cf8606c36d5376f0.png",
+    "static/media/loginLarge1.jpeg": "/static/media/loginLarge1.f4e8f238b4f12602ec37.jpeg",
+    "static/media/Image (2).jpg": "/static/media/Image (2).0ccdba7a4af217d35f79.jpg",
+    "static/media/Image (3).jpg": "/static/media/Image (3).665d46df4c37e06e8e66.jpg",
+    "static/media/Avatar.png": "/static/media/Avatar.9ff0cfee00fa0aa55070.png",
+    "static/media/order2.png": "/static/media/order2.dcdc232db715d1c09bc3.png",
+    "static/media/addmenu.jpg": "/static/media/addmenu.a5337c47c7bc9c9f0b46.jpg",
+    "static/media/Image.png": "/static/media/Image.51c5567fa4293d97098e.png",
+    "static/media/Image (2).png": "/static/media/Image (2).a7cb4d86bada6a5eb937.png",
+    "static/media/Image(1).jpg": "/static/media/Image(1).25b57ac25f7bfda3e661.jpg",
+    "static/media/Image4.jpg": "/static/media/Image4.25b57ac25f7bfda3e661.jpg",
+    "static/media/home2.svg": "/static/media/home2.91cf9e4f281c6c59e418df0d8a8b7d8d.svg",
+    "static/media/home1.svg": "/static/media/home1.4c7cabdd7cb635904544f7c15a000db8.svg",
+    "static/media/home3.svg": "/static/media/home3.1196dceefdf2c9e8273fe4115d23b3d5.svg",
+    "index.html": "/index.html",
+    "main.bcd36ae3.css.map": "/static/css/main.bcd36ae3.css.map",
+    "main.d53c2efa.js.map": "/static/js/main.d53c2efa.js.map",
+    "453.584e3e5b.chunk.js.map": "/static/js/453.584e3e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd36ae3.css",
+    "static/js/main.d53c2efa.js"
+  ]
+}
